@@ -2,14 +2,13 @@
 	"installed_packages":
 	[
 		"Abacus",
-		"AdvancedNewFile",
 		"All Autocomplete",
 		"Backbone.Marionette",
 		"Better CoffeeScript",
-		"CoffeeComplete Plus (Autocompletion)",
-		"DashDoc",
+		"Color Highlighter",
 		"DocBlockr",
 		"eco",
+		"ExpandRegion",
 		"Git",
 		"GitGutter",
 		"Handlebars",
@@ -18,11 +17,10 @@
 		"Jasmine JS",
 		"JavaScript Console",
 		"JSONLint",
-		"Lasso",
 		"LESS",
 		"Monokai Extended",
 		"Pretty JSON",
-		"RSpec (snippets and syntax)",
+		"RSpec",
 		"RubyTest",
 		"Sass",
 		"SideBarEnhancements",
@@ -31,8 +29,7 @@
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby",
-		"Theme - Soda",
-		"View In Browser"
+		"Theme - Soda"
 	],
 	"repositories":
 	[

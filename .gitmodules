@@ -2,10 +2,6 @@
 	path = Packages/User/Snippets
 	url = git@github.com:jrolfs/sublime-snippets.git
   branch = master
-[submodule "Packages/User/Abacus"]
-	path = Packages/User/Abacus
-	url = https://github.com/khiltd/Abacus.git
-  branch = master
 [submodule "Packages/User/Solarized"]
 	path = Packages/User/Solarized
 	url = git@github.com:jrolfs/Solarized.git
@@ -18,6 +14,3 @@
 	path = Packages/Theme - Sodarized
 	url = git@github.com:jrolfs/sodarized.git
   branch = sodarized
-[submodule "Packages/ColorHighlighter"]
-	path = Packages/ColorHighlighter
-	url = https://github.com/Monnoroch/ColorHighlighter.git

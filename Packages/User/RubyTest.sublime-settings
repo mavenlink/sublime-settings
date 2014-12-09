@@ -4,5 +4,5 @@
     "check_for_rvm": true,
     "check_for_rbenv": true,
     "save_on_run": true,
-    "theme": "Packages/User/Solarized/Solarized Test (light).tmTheme"
+    "theme": "Packages/User/Solarized/Solarized Test (dark).tmTheme"
 }
