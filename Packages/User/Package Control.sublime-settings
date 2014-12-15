@@ -29,7 +29,8 @@
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TrailingSpaces"
 	],
 	"repositories":
 	[
