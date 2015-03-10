@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Abacus",
@@ -19,6 +22,7 @@
 		"JSONLint",
 		"LESS",
 		"Monokai Extended",
+		"Package Control",
 		"Pretty JSON",
 		"RSpec",
 		"RubyTest",
