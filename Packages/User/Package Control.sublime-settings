@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -21,9 +22,11 @@
 		"JavaScript Console",
 		"JSONLint",
 		"LESS",
+		"Material Theme",
 		"Monokai Extended",
 		"Package Control",
 		"Pretty JSON",
+		"Related Files",
 		"RSpec",
 		"RubyTest",
 		"SCSS",
@@ -34,7 +37,8 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby",
 		"Theme - Soda",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Vintageous"
 	],
 	"repositories":
 	[

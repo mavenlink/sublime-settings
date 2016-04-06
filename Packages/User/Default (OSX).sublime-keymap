@@ -1,4 +1,5 @@
 [
+    { "keys": ["control+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
     { "keys": ["ctrl+alt+f"], "command": "js_format"},
     { "keys": ["super+alt+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
     { "keys": ["super+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
@@ -12,5 +13,7 @@
     { "keys": ["super+alt+shift+w"], "command": "close_to_right" },
     { "keys": ["super+ctrl+alt+w"], "command": "close_all" },
     { "keys": ["super+alt+shift+s"], "command": "save_project_as" },
-    { "keys": ["ctrl+w"], "command": "expand_region" }
+
+    { "keys": ["ctrl+alt+p"], "command": "related_files" },
+    { "keys": ["ctrl+super+p"], "command": "prompt_select_workspace" }
 ]

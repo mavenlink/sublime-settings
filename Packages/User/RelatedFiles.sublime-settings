@@ -1,0 +1,23 @@
+{
+  "patterns": {
+    // Test/specs for coffee files
+    ".+\/(app|lib)\/assets\/javascripts\/(.+\/)*(.+)(?!spec).coffee":
+      [
+        "app/assets/javascripts/specs/specs/group1/$2$3-spec.coffee",
+        "app/assets/javascripts/specs/specs/group2/$2$3-spec.coffee",
+        "app/assets/javascripts/specs/specs/group3/$2$3-spec.coffee"
+      ],
+
+    // Coffee files for templates
+    ".+\/(app|lib)\/assets\/javascripts\/(.+\/)*templates\/(.+)+.jst.eco":
+      [
+        "app/assets/javascripts/$2$3.coffee"
+      ],
+
+    // Coffee files for test/specs
+    ".+\/(test|specs)\/group[123]\/(.+\/)*(.+)-(test|spec).coffee":
+      [
+        "app/assets/javascripts/$2$3.coffee"
+      ]
+  }
+}
